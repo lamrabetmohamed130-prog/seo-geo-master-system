@@ -112,7 +112,7 @@ Clarify before starting:
 Extract four keyword buckets:
 1. **Core terms** — Direct product/service descriptors (e.g., "IPTV service", "IPTV subscription")
 2. **Problem-focused** — Pain points the audience has (e.g., "cable TV too expensive", "how to watch foreign channels")
-3. **Solution-focused** — How they search for answers (e.g., "best IPTV provider 2025", "IPTV vs cable TV")
+3. **Solution-focused** — How they search for answers (e.g., "best IPTV provider 2026", "IPTV vs cable TV")
 4. **Audience-specific** — Niche terminology, role-based language, community jargon
 
 **Phase 3: VARIATIONS**
@@ -128,7 +128,7 @@ Generate modifier expansions:
 |-------------|-------------|---------|
 | Informational | Learning/research | "what is IPTV" |
 | Navigational | Finding a specific site | "IPTV service login" |
-| Commercial | Comparing before buying | "best IPTV providers 2025" |
+| Commercial | Comparing before buying | "best IPTV providers 2026" |
 | Transactional | Ready to buy/subscribe | "buy IPTV subscription" |
 
 **Phase 5: SCORE — Opportunity Formula**
@@ -357,7 +357,7 @@ Each paragraph/block must:
 Every 500 words must contain 3-5 of:
 - Percentages with context: "reduces setup time by 73%"
 - Dollar amounts: "costs $9.99/month vs $120+/month for cable"
-- Named studies: "According to Statista 2025..."
+- Named studies: "According to Statista 2026..."
 - Specific quantities: "includes 8,000+ channels across 50 countries"
 - Dates/timeframes: "as of Q1 2026"
 
@@ -396,7 +396,7 @@ A: [25-50 word direct answer]. [Supporting detail]. [Supporting detail]. [Contex
 > "IPTV is a great way to watch TV. It offers many channels and features that people enjoy. It's much better than cable in many ways."
 
 **AFTER (High GEO score):**
-> "IPTV (Internet Protocol Television) delivers live TV, VOD, and catch-up content over broadband internet, eliminating cable infrastructure costs entirely. Unlike cable which averages $127/month in 2025, premium IPTV subscriptions cost $10-30/month while providing access to 5,000-20,000+ channels. Independent tests by StreamingComparisons.com (2025) show 99.7% uptime reliability on providers using tier-1 CDN networks."
+> "IPTV (Internet Protocol Television) delivers live TV, VOD, and catch-up content over broadband internet, eliminating cable infrastructure costs entirely. Unlike cable which averages $127/month in 2026, premium IPTV subscriptions cost $10-30/month while providing access to 5,000-20,000+ channels. Independent tests by StreamingComparisons.com (2026) show 99.7% uptime reliability on providers using tier-1 CDN networks."
 
 ---
 
@@ -1625,7 +1625,7 @@ Per feature: [What it is] + [Specific benefit] + [Who it's for]
 | Intent Stage | Keyword Pattern | Content Type | Primary CTA |
 |-------------|----------------|--------------|-------------|
 | Awareness | "what is IPTV" | Informational blog | "Learn more" → email capture |
-| Consideration | "best IPTV service 2025" | Comparison article | "See plans" → pricing page |
+| Consideration | "best IPTV service 2026" | Comparison article | "See plans" → pricing page |
 | Decision | "buy IPTV subscription" | Landing page | "Start trial" / "Buy now" |
 | Local | "IPTV service [country]" | Local landing page | "Get started" |
 | Objection | "is IPTV legal" | FAQ/blog | Trust signals → CTA |
@@ -1692,7 +1692,7 @@ Business Type: [IPTV / SaaS / E-commerce / Local / Publisher / etc.]
 ```
 System: [This master system]
 Task: Using MODULE 3 (SEO Content) + MODULE 4 (GEO Content) + MODULE 19 (AEO):
-Keyword: "best IPTV service UK 2025"
+Keyword: "best IPTV service UK 2026"
 Country: United Kingdom
 Word count: 2,500+
 Intent: Commercial (buyer comparison)
@@ -1728,8 +1728,8 @@ Deliverable: Master keyword list with opportunity scores, intent, and GEO potent
 ## Content Length Minimums
 | Page Type | Minimum Words |
 |-----------|--------------|
-| Blog post / Guide | 1,500 |
-| Product page | 800 |
+| Blog post / Guide | 3,500 |
+| Product page | 2500 |
 | Service page | 1,000 |
 | Landing page | 800 |
 | FAQ answer | 50 (standalone block) |
